@@ -1,3 +1,6 @@
 [submodule "python-pdf-reader"]
 	path = python-pdf-reader
 	url = https://github.com/nddnam/-general-python-pdf-reader
+[submodule "general-powershell-copy-file-auto-create-childfolder"]
+	path = general-powershell-copy-file-auto-create-childfolder
+	url = https://github.com/nddnam/general-powershell-copy-file-auto-create-childfolder
